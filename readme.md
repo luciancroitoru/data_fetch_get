@@ -1,0 +1,1 @@
+Class exercise that fetches data from an external API using GET method and displays it in the UI.
