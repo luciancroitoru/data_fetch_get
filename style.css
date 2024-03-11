@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 6rem;
+}
+
+#options {
+  text-align: center;
+  font-size: large;
+}
+
+#dropdown-menu {
+  font-size: large;
+}
+
+button {
+  font-size: x-large;
+  background-color: aquamarine;
+}
+
+.display-text {
+  font-size: x-large;
+  border: 4px solid aquamarine;
+  margin: 3rem;
+  padding: 6rem;
+  text-align: center;
+}
